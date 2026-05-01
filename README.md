@@ -15,7 +15,7 @@ This project demonstrates how to deploy a containerized Node.js application to A
 
 Internet → ALB → ECS Tasks (Fargate)
 
-##Tech Stack
+## Tech Stack
 
 - Docker
 - AWS ECS (Fargate)
